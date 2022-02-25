@@ -1252,3 +1252,4 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.24-23.51.14:678][175]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
 [2022.02.24-23.54.54:988][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2022.02.25-00.49.20:120][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.02.25-01.32.59:394][338]LogUObjectHash: Compacting FUObjectHashTables data took   9.32ms
